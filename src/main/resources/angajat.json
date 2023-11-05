@@ -1,0 +1,20 @@
+[
+  {
+    "numele": "John Doe",
+    "postul": "Programmer",
+    "data_angajarii": "2022-04-04",
+    "salariul": 1.0
+  },
+  {
+    "numele": "Alice Johnson",
+    "postul": "Designer",
+    "data_angajarii": "2022-04-20",
+    "salariul": 55000.0
+  },
+  {
+    "numele": "Bob Smith",
+    "postul": "Manager",
+    "data_angajarii": "2023-08-02",
+    "salariul": 70000.0
+  }
+]
